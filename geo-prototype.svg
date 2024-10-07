@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="4.1020751mm"
+   height="22.203295mm"
+   viewBox="0 0 4.1020751 22.203295"
    version="1.1"
    id="svg1"
    xmlns="http://www.w3.org/2000/svg"
@@ -12,14 +12,15 @@
   <defs
      id="defs1">
     <rect
-       x="97.491879"
-       y="203.34182"
+       x="97.491882"
+       y="203.34183"
        width="51.904015"
        height="193.06833"
        id="rect1" />
   </defs>
   <g
-     id="layer1">
+     id="layer1"
+     transform="translate(-25.880074,-54.295393)">
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -27,26 +28,26 @@
        style="white-space:pre;shape-inside:url(#rect1);display:inline;fill:#f65236;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"><tspan
          x="97.492188"
          y="213.95898"
-         id="tspan2">t1
+         id="tspan1">t1
 </tspan><tspan
          x="97.492188"
          y="228.95898"
-         id="tspan3">t2
+         id="tspan8">t2
 </tspan><tspan
          x="97.492188"
          y="243.95898"
-         id="tspan4">P1
+         id="tspan9">P1
 </tspan><tspan
          x="97.492188"
          y="258.95898"
-         id="tspan5">P2
+         id="tspan10">P2
 </tspan><tspan
          x="97.492188"
          y="273.95898"
-         id="tspan6">G1
+         id="tspan11">G1
 </tspan><tspan
          x="97.492188"
          y="288.95898"
-         id="tspan7">G2</tspan></text>
+         id="tspan12">G2</tspan></text>
   </g>
 </svg>
