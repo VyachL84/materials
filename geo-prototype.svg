@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="4.3666582mm"
-   height="22.46788mm"
-   viewBox="0 0 4.3666582 22.46788"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
    version="1.1"
    id="svg1"
    xmlns="http://www.w3.org/2000/svg"
@@ -12,20 +12,19 @@
   <defs
      id="defs1">
     <rect
-       x="97.491882"
-       y="203.34183"
+       x="97.491879"
+       y="203.34182"
        width="51.904015"
        height="193.06833"
        id="rect1" />
   </defs>
   <g
-     id="layer1"
-     transform="translate(-25.747782,-54.163103)">
+     id="layer1">
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text1"
-       style="white-space:pre;shape-inside:url(#rect1);display:inline;fill:#36bef6;fill-opacity:1;fill-rule:evenodd;stroke:#f66436;stroke-opacity:1"><tspan
+       style="white-space:pre;shape-inside:url(#rect1);display:inline;fill:#f65236;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"><tspan
          x="97.492188"
          y="213.95898"
          id="tspan2">t1
