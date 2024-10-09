@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="17.201075mm"
+   height="24.739191mm"
+   viewBox="0 0 17.201074 24.739191"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="97.491882"
+       y="203.34183"
+       width="51.904015"
+       height="193.06833"
+       id="rect1" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-23.552126,-53.496296)">
+    <rect
+       style="fill:#d6cac8;fill-opacity:1;fill-rule:evenodd;stroke-width:0.157694;stroke-dasharray:none"
+       id="rect2"
+       width="17.201075"
+       height="24.739191"
+       x="23.552126"
+       y="53.496296" />
+    <text
+       xml:space="preserve"
+       id="text1"
+       style="white-space:pre;shape-inside:url(#rect1);display:inline;fill:#f65236;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,22.108855,1.501652)"><tspan
+         x="97.492188"
+         y="214.2603"
+         id="tspan1">t1
+</tspan><tspan
+         x="97.492188"
+         y="229.2603"
+         id="tspan8">t2
+</tspan><tspan
+         x="97.492188"
+         y="244.2603"
+         id="tspan9">P1
+</tspan><tspan
+         x="97.492188"
+         y="259.2603"
+         id="tspan10">P2
+</tspan><tspan
+         x="97.492188"
+         y="274.2603"
+         id="tspan11">G1
+</tspan><tspan
+         x="97.492188"
+         y="289.2603"
+         id="tspan12">G2</tspan></text>
+  </g>
+</svg>
