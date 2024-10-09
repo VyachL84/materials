@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="4.9021864mm"
+   width="5.778481mm"
    height="22.142448mm"
-   viewBox="0 0 4.9021864 22.142448"
+   viewBox="0 0 5.778481 22.142448"
    version="1.1"
    id="svg1"
    xmlns="http://www.w3.org/2000/svg"
@@ -20,7 +20,14 @@
   </defs>
   <g
      id="layer1"
-     transform="translate(-24.940996,-54.68149)">
+     transform="translate(-24.890196,-54.68149)">
+    <rect
+       style="fill:#d6cac8;fill-opacity:1;fill-rule:evenodd;stroke-width:0.157694;stroke-dasharray:none"
+       id="rect2"
+       width="17.201075"
+       height="24.739191"
+       x="35.644814"
+       y="53.596558" />
     <text
        xml:space="preserve"
        id="text1"
@@ -28,26 +35,26 @@
        transform="matrix(0.26458333,0,0,0.26458333,-0.90461192,0.25873659)"><tspan
          x="97.492188"
          y="214.2603"
-         id="tspan1">t1
+         id="tspan1"> t1
 </tspan><tspan
          x="97.492188"
          y="229.2603"
-         id="tspan8">t2
+         id="tspan8"> t2
 </tspan><tspan
          x="97.492188"
          y="244.2603"
-         id="tspan9">P1
+         id="tspan9"> P1
 </tspan><tspan
          x="97.492188"
          y="259.2603"
-         id="tspan10">P2
+         id="tspan10"> P2
 </tspan><tspan
          x="97.492188"
          y="274.2603"
-         id="tspan11">G1
+         id="tspan11"> G1
 </tspan><tspan
          x="97.492188"
          y="289.2603"
-         id="tspan12">G2  </tspan></text>
+         id="tspan12"> G2  </tspan></text>
   </g>
 </svg>
