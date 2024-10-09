@@ -28,26 +28,26 @@
        transform="matrix(0.26458333,0,0,0.26458333,-0.18927958,0.33514989)"><tspan
          x="97.492188"
          y="214.2603"
-         id="tspan2">. t1
+         id="tspan2">__t1
 </tspan><tspan
          x="97.492188"
          y="229.2603"
-         id="tspan8">. t2
+         id="tspan8">__t2
 </tspan><tspan
          x="97.492188"
          y="244.2603"
-         id="tspan9">. P1
+         id="tspan9">__P1
 </tspan><tspan
          x="97.492188"
          y="259.2603"
-         id="tspan10">. P2
+         id="tspan10">__P2
 </tspan><tspan
          x="97.492188"
          y="274.2603"
-         id="tspan11">. G1
+         id="tspan11">__G1
 </tspan><tspan
          x="97.492188"
          y="289.2603"
-         id="tspan12">. G2  </tspan></text>
+         id="tspan12">__G2  </tspan></text>
   </g>
 </svg>
